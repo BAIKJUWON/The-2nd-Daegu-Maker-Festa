@@ -116,7 +116,7 @@ MIT 앱인벤터를 이용하여 안드로이드 앱을 제작했습니다.
 - Firebase 데이터 실시간 반영
 
 <p align="center">
-  <img src="image/앱화면.png" alt="Doge 스마트 화분 앱 화면" width="750">
+  <img src="image/apk 디자인.jpeg" alt="Doge 스마트 화분 앱 화면" width="750">
 </p>
 
 ---
