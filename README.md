@@ -7,7 +7,7 @@ Doge 스마트 화분은 온도, 습도, 물의 양을 측정하고 식물의 �
 ESP8266을 이용하여 센서 데이터를 Firebase 실시간 데이터베이스에 전송하며, 사용자는 앱인벤터로 제작한 안드로이드 앱에서 화분의 상태를 원격으로 확인하고 급수 장치를 제어할 수 있습니다.
 
 <p align="center">
-  <img src="image/musk.png" alt="Doge 스마트 화분" width="850">
+  <img src="image/musk.jpg" alt="Doge 스마트 화분" width="850">
 </p>
 
 ---
