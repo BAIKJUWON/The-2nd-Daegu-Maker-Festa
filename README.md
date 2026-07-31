@@ -253,7 +253,7 @@ DHT11 DATA → ESP8266 디지털 핀
 ```
 
 <p align="center">
-  <img src="image/온습도센서.png" alt="DHT11 온습도 센서 연결" width="700">
+  <img src="image/1.png" alt="DHT11 온습도 센서 연결" width="700">
 </p>
 
 ### 수위 센서
@@ -265,7 +265,7 @@ DHT11 DATA → ESP8266 디지털 핀
 ```
 
 <p align="center">
-  <img src="image/계수센서.png" alt="수위 센서 연결" width="700">
+  <img src="image/2.png" alt="수위 센서 연결" width="700">
 </p>
 
 ### 물 펌프
@@ -275,7 +275,7 @@ ESP8266의 출력 신호를 이용하여 물 펌프를 작동시킵니다.
 ESP8266 핀에서 펌프를 직접 구동할 수 없으므로 트랜지스터, 릴레이 또는 모터 구동 회로를 통해 전원을 제어해야 합니다.
 
 <p align="center">
-  <img src="image/펌프.png" alt="물 펌프 연결" width="700">
+  <img src="image/3.png" alt="물 펌프 연결" width="700">
 </p>
 
 ---
