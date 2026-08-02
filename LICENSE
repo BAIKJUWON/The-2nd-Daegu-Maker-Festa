@@ -1,13 +1,14 @@
 MIT License
 
-Copyright (c) 2022 BAIKJUWON
+Copyright (c) 2022-2026 BAIKJUWON
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of the source code and associated software files in this repository
+(the "Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following
+conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -15,7 +16,54 @@ copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+NON-SOFTWARE CONTENT NOTICE
+
+The MIT License above applies only to the source code and software-related
+files originally created by the repository owner.
+
+Unless otherwise stated, the following materials are NOT licensed under the
+MIT License:
+
+- Project photographs and product images
+- Award certificates and award-related images
+- Application forms and event submission documents
+- Presentation materials and reports
+- Personal information and identifying documents
+- Logos, trademarks, and event branding
+- APK files and compiled application packages
+- Third-party libraries, assets, and documentation
+- Files contained in the "image", "참여신청서", and "라이브러리" directories
+
+Copyright in these materials remains with their respective authors,
+organizations, institutions, or rights holders.
+
+These materials may not be copied, redistributed, modified, republished,
+used commercially, or presented as another person's work without prior
+written permission from the applicable rights holder.
+
+The names, logos, and trademarks of the Daegu Maker Festa, participating
+organizations, educational institutions, Firebase, MIT App Inventor, and
+other third parties belong to their respective owners.
+
+This repository is provided primarily for educational, archival, and
+portfolio purposes.
+
+For permission inquiries, contact:
+
+BAIKJUWON
+Email: baik040609@gmail.com
+GitHub: https://github.com/BAIKJUWON
+
+## 라이선스
+
+이 저장소에서 백주원이 직접 작성한 소스 코드는 [MIT License](./LICENSE)를 따릅니다.
+
+프로젝트 사진, 수상 자료, 참가 신청서, 발표자료, 로고, APK 및 제3자 자료는 MIT License 적용 대상이 아니며, 각 저작권자의 권리를 따릅니다.
+
+본 저장소는 교육 및 포트폴리오 기록 목적으로 공개되었습니다.
