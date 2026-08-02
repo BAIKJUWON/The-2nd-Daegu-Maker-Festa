@@ -355,25 +355,6 @@ android_app_last.aia
 flowerpot.apk
 ```
 
----
-
-## 저장소 구조
-
-```text
-.
-├── README.md
-├── LASTCODE.ino
-├── android_app_last.aia
-├── flowerpot.apk
-├── LICENSE
-├── 대구메이커페스타상.png
-├── 유튜브 주소.docx
-├── 참여신청서
-├── 라이브러리
-└── image
-```
-
----
 
 ## 개발 결과
 
